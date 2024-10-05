@@ -18,3 +18,4 @@
 
 ## 챌린지 과제 결과
 
+![2024-10-0516 30 58-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/bbda6f3f-df5b-4ed0-9b04-39f7d4f8549b)
